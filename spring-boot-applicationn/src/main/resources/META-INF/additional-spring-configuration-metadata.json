@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "exception.msg1",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.msg1'"
+  },
+  {
+    "name": "exception.msg2",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.msg2'"
+  },
+  {
+    "name": "exception.msg3",
+    "type": "java.lang.String",
+    "description": "A description for 'exception.msg3'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  }
+]}
